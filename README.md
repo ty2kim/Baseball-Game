@@ -9,4 +9,5 @@ A 3 digit number guessing game
   2. Input error check
   3. Table for users to track their guesses
   4. Timer
+  5. Buttons to start/end game
 
